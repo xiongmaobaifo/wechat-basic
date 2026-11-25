@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text>pages/home/home.wxml</text>
+<view>在project.config.json文件内appid参数改为自己小程序的appid</view>
